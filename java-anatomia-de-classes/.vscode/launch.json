@@ -1,0 +1,91 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch AboutMeScanner",
+            "request": "launch",
+            "mainClass": "edu.aulas.terminaleargumento.AboutMeScanner",
+            "projectName": "java-anatomia-de-classes_4089a02c"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMeScaner",
+            "request": "launch",
+            "mainClass": "edu.aulas.terminaleargumento.AboutMeScaner",
+            "projectName": "java-anatomia-de-classes_4089a02c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.aulas.anatomia.BoletimEstudantil",
+            "projectName": "java-anatomia-de-classes_4089a02c"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.aulas.anatomia.MinhaClasse",
+            "projectName": "java-anatomia-de-classes_4089a02c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comentarios",
+            "request": "launch",
+            "mainClass": "edu.aulas.javadoc.Comentarios",
+            "projectName": "java-anatomia-de-classes_4089a02c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usuario",
+            "request": "launch",
+            "mainClass": "edu.aulas.metodos.Usuario",
+            "projectName": "java-anatomia-de-classes_4089a02c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Logicos",
+            "request": "launch",
+            "mainClass": "edu.aulas.operadores.Logicos",
+            "projectName": "java-anatomia-de-classes_4089a02c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Relacionais",
+            "request": "launch",
+            "mainClass": "edu.aulas.operadores.Relacionais",
+            "projectName": "java-anatomia-de-classes_4089a02c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ternario",
+            "request": "launch",
+            "mainClass": "edu.aulas.operadores.Ternario",
+            "projectName": "java-anatomia-de-classes_4089a02c"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "edu.aulas.terminaleargumento.AboutMe",
+            "projectName": "java-anatomia-de-classes_4089a02c"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinhaClasseBin",
+            "request": "launch",
+            "mainClass": "edu.aulas.terminaleargumento.MinhaClasseBin",
+            "projectName": "java-anatomia-de-classes_4089a02c"
+        }
+    ]
+}
