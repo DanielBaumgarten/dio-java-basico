@@ -13,5 +13,31 @@ Percurso
 - Arrays
 - Comando for-each
 
+Visão geral
+
+Etrutura de Repetição
+
+- O real poder dos computadores está na sua habilidade para repetir uma operação várias vezes.
+- Cada repetição é chamada laço (loop) é um dos conceitos básicos da programação estruturada;.
+- Uma estrutura de repetiçõa permite que uma sequência de comandos seja executada repetidamente, caso determinadas condições sejam satisfeitas.
+-  Essas condições são representadas por expressões lógica.
+
+-as estruturas de repetições podem ser classificadas em:
+ ° Repetição com teste de início (while)
+ ° Repetição com teste no final (do-while)
+ ° Repetição contada (for)
+ ° O comando break é utilizado para terminar de forma abrupta uma repetição.
+ Quando comando continue é executado, os comandos restants da repetição são ignorados e programa volta a testar novamente ou não.
+
+ Diferença entre eles, o break  pode ser utilizado fora da estrutura de repetição, porém o continue só pode ser utilizado dentro da estrutura de repetição, continue é pouco utilizado.
+
+Array
+
+- Array é um objeto para armazenar sequencialemente dados do mesmo tipo.
+-  Permanecem com o mesmo tamanho de criados.
+
+
+
 
 Aulas ministradas pela Teach Teacher Camila Cavalcante, pela plataforma da Dio.
+Repositório das aulas https://github.com/cami-la/loops-e-arrays
